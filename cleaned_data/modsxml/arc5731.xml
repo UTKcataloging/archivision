@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc5731</identifier>
+   <identifier type="Vendor ID">1A1-VGB-VF-C8</identifier>
+   <titleInfo>
+      <title>Villa Farnese</title>
+   </titleInfo>
+   <abstract>Southwest elevation, the sun dial</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Caprarola</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Villa Farnese</title>
+      </titleInfo>
+      <identifier type="Work ID">2144578327</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500024808">
+         <namePart>Vignola, Jacopo da</namePart>
+         <displayForm>Jacopo da Vignola</displayForm>
+         <namePart type="date">1507-1573</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1560</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Architecture: built works</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

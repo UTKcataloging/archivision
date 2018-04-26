@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard2058</identifier>
+   <identifier type="Vendor ID">1A3-R-R-CT-1-G1</identifier>
+   <titleInfo>
+      <title>Column of Trajan</title>
+   </titleInfo>
+   <abstract>General view, depicting Doric capital, observation deck, cap and the back of St. Peter (the statue of St. Peter replaced the one of Trajan in 1587)</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Rome</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Column of Trajan</title>
+      </titleInfo>
+      <identifier type="Work ID">2144577503</identifier>
+      <originInfo>
+         <dateCreated>113</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Sculpture: sculpture (visual work)</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

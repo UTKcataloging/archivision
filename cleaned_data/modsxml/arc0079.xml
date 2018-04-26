@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc0079</identifier>
+   <identifier type="Vendor ID">1A1-AB-FN-E6</identifier>
+   <titleInfo>
+      <title>Fountain of Neptune</title>
+   </titleInfo>
+   <abstract>The northwest center satyr, from the southwest</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Florence</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Fountain of Neptune</title>
+      </titleInfo>
+      <identifier type="Work ID">2144577640</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500028632">
+         <namePart>Ammanati, Bartolomeo</namePart>
+         <displayForm>Bartolomeo Ammanati</displayForm>
+         <namePart type="date">1511-1592</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500016387">
+         <namePart>Giambologna</namePart>
+         <displayForm>Giambologna</displayForm>
+         <namePart type="date">1529-1608</namePart>
+         <description>Flemish</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1560-1575</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Sculpture: sculpture (visual work)</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

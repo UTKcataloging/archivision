@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard4293</identifier>
+   <identifier type="Vendor ID">7B1-CS-SC-B6</identifier>
+   <titleInfo>
+      <title>Susie Cooper Earthenware Ceramics</title>
+   </titleInfo>
+   <abstract>Two part coffee sets: 1933-37, hand painted graduated bands in lime green &amp; black / rust &amp; black. Kestrel shape designed by Susie Cooper.</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Susie Cooper Earthenware Ceramics</title>
+      </titleInfo>
+      <identifier type="Work ID">2144578247</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500086173">
+         <namePart>Cooper, Susie</namePart>
+         <displayForm>Susie Cooper</displayForm>
+         <namePart type="date">born 1902</namePart>
+         <description>British</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>20th century</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Decorative Arts: Ceramics: ceramics (objects)</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300151343">ceramics (objects genre)</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

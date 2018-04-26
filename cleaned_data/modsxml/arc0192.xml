@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc0192</identifier>
+   <identifier type="Vendor ID">1A1-AL-SA-A5</identifier>
+   <titleInfo>
+      <title>Sant'Andrea</title>
+   </titleInfo>
+   <abstract>Tight view from the south, depicting projection of portico front</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Mantua</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Sant'Andrea</title>
+      </titleInfo>
+      <identifier type="Work ID">2144578219</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500002025">
+         <namePart>Alberti, Leon Battista</namePart>
+         <displayForm>Leon Battista Alberti</displayForm>
+         <namePart type="date">1404-1472</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500022389">
+         <namePart>Juvarra, Filippo</namePart>
+         <displayForm>Filippo Juvarra</displayForm>
+         <namePart type="date">1678-1736</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Fancelli, Luca</namePart>
+         <displayForm>Luca Fancelli</displayForm>
+         <namePart type="date">1430-1495</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1470-1472</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Architecture: built works</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

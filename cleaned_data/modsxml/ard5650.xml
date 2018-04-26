@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard5650</identifier>
+   <identifier type="Vendor ID">1A2-I-R-SGL-H1</identifier>
+   <titleInfo>
+      <title>Saint John Lateran</title>
+   </titleInfo>
+   <abstract>View in the nave looking east, showing cosmatesque style paving in polychrome marble (taken from ancient Roman buildings)</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Rome</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Saint John Lateran</title>
+      </titleInfo>
+      <identifier type="Work ID">2144578134</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500025366">
+         <namePart>Porta, Giacomo della</namePart>
+         <displayForm>Giacomo della Porta</displayForm>
+         <namePart type="date">ca. 1532- ca. 1604</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500010766">
+         <namePart>Giotto di Bondone</namePart>
+         <displayForm>Giotto di Bondone</displayForm>
+         <namePart type="date">born 1266 or 1267, died 1337</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500028306">
+         <namePart>Borromini, Francesco</namePart>
+         <displayForm>Francesco Borromini</displayForm>
+         <namePart type="date">1599-1667</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Fontana, Domenico</namePart>
+         <displayForm>Domenico Fontana</displayForm>
+         <namePart type="date">1543-1607</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500115904">
+         <namePart>Giovanni di Stefano da Siena</namePart>
+         <displayForm>Giovanni di Stefano da Siena</displayForm>
+         <namePart type="date">documented 1366-1391</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>founded 314; rebuilt and remodelled between 440-1885</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Architecture: built works</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

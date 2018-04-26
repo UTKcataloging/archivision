@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard4997</identifier>
+   <identifier type="Vendor ID">1A4-AE-D-D21</identifier>
+   <titleInfo>
+      <title>Architectural Elements D: Entablatures</title>
+   </titleInfo>
+   <abstract>Gilded frame based on an architectural Entablature, Pienza, Italy</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Architectural Elements D: Entablatures</title>
+      </titleInfo>
+      <identifier type="Work ID">2144577320</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500017255">
+         <namePart>Jefferson, Thomas</namePart>
+         <displayForm>Thomas Jefferson</displayForm>
+         <namePart type="date">1743-1826</namePart>
+         <description>American</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500115154">
+         <namePart>Cortona, Pietro da</namePart>
+         <displayForm>Pietro da Cortona</displayForm>
+         <namePart type="date">1596-1669</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500010654">
+         <namePart>Buonarroti, Michelangelo</namePart>
+         <displayForm>Michelangelo Buonarroti</displayForm>
+         <namePart type="date">1475-1564</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500032022">
+         <namePart>Bernini, Gian Lorenzo</namePart>
+         <displayForm>Gian Lorenzo Bernini</displayForm>
+         <namePart type="date">1598-1680</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500018169">
+         <namePart>Brunelleschi, Filippo</namePart>
+         <displayForm>Filippo Brunelleschi</displayForm>
+         <namePart type="date">1377-1446</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+         </role>
+      </name>
+      <physicalDescription>
+         <form>Architectural Elements: architectural elements</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300000885">architectural elements</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>

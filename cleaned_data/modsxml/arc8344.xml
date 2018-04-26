@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc8344</identifier>
+   <identifier type="Vendor ID">1A2-I-F-PVE-C4</identifier>
+   <titleInfo>
+      <title>Ponte Vecchio</title>
+   </titleInfo>
+   <abstract>View of the loggia formed by the Corridoio Vasariano, from the northwest</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic authority="geonames">Florence</geographic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Ponte Vecchio</title>
+      </titleInfo>
+      <identifier type="Work ID">2144578083</identifier>
+      <name type="personal"
+            authority="ulan"
+            valueURI="http://vocab.getty.edu/ulan/500115669">
+         <namePart>Gaddi, Taddeo</namePart>
+         <displayForm>Taddeo Gaddi</displayForm>
+         <namePart type="date">active mid-1320s, died 1366</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/att">Attributed name</roleTerm>
+         </role>
+      </name>
+      <name type="personal" authority="Grove">
+         <namePart>Neri di Fioravante</namePart>
+         <displayForm>Neri di Fioravante</displayForm>
+         <namePart type="date">active ca. 1340-1384</namePart>
+         <description>Italian</description>
+         <role>
+            <roleTerm type="text"
+                      authority="marcrelator"
+                      valueURI="ttp://id.loc.gov/vocabulary/relators/att">Attributed name</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>originally 10th century; extant structure rebuilt in 1345</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <form>Architecture: built works</form>
+         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      </physicalDescription>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+</mods>
