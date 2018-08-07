@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc5648</identifier>
+   <identifier type="Work ID">2144577509</identifier>
    <identifier type="Vendor ID">1A1-VG-CV-A4</identifier>
    <titleInfo>
       <title>Corridoio Vasariano</title>
@@ -12,65 +13,52 @@
    <abstract>Detail where it wraps a medieval tower, southeast corner of the Ponte Vecchio</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1565</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1565</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">stone, stucco</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021140">Renaissance</genre>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3176959">Florence</geographic>
+      <cartographics>
+         <coordinates>43.77925, 11.24626</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500017608">
+      <namePart>Vasari, Giorgio, II</namePart>
+      <displayForm>Giorgio Vasari II</displayForm>
+      <namePart type="date">1511-1574</namePart>
+      <description>Italian</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Florence</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Corridoio Vasariano</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577509</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500017608">
-         <namePart>Vasari, Giorgio, II</namePart>
-         <displayForm>Giorgio Vasari II</displayForm>
-         <namePart type="date">1511-1574</namePart>
-         <description>Italian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <name type="personal" authority="Grove">
-         <namePart>Cosimo I de' Medici, Grand Duke of Tuscany</namePart>
-         <displayForm>Cosimo I de' Medici, Grand Duke of Tuscany</displayForm>
-         <namePart type="date">1519-1574</namePart>
-         <description>Italian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1565</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
+   <name type="personal" authority="Grove">
+      <namePart>Cosimo I de' Medici, Grand Duke of Tuscany</namePart>
+      <displayForm>Cosimo I de' Medici, Grand Duke of Tuscany</displayForm>
+      <namePart type="date">1519-1574</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -82,7 +70,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

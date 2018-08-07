@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc6791</identifier>
+   <identifier type="Work ID">2144577719</identifier>
    <identifier type="Vendor ID">1A2-F-P-LD-B2</identifier>
    <titleInfo>
       <title>La Défense</title>
@@ -12,54 +13,43 @@
    <abstract>View within the new development looking toward the Grande Arche, depicting a decorative pool</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1958 to ca. 1999</dateCreated>
+      <dateCreated encoding="edtf"
+                   point="start"
+                   keyDate="yes"
+                   qualifier="approximate">1958</dateCreated>
+      <dateCreated encoding="edtf" point="end" qualifier="approximate">1999</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015566">topographical views</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/2988507">Paris</geographic>
+      <cartographics>
+         <coordinates>48.85341, 2.3488</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500022580">
+      <namePart>Kiley, Daniel Urban</namePart>
+      <displayForm>Daniel Urban Kiley</displayForm>
+      <namePart type="date">1912-2004</namePart>
+      <description>American</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Paris</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>La Défense</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577719</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500022580">
-         <namePart>Kiley, Daniel Urban</namePart>
-         <displayForm>Daniel Urban Kiley</displayForm>
-         <namePart type="date">1912-2004</namePart>
-         <description>American</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1958 to ca. 1999</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Urban and Topographical Views: topographical views</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015566">topographical views</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -71,7 +61,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

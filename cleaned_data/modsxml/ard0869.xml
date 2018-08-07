@@ -5,48 +5,38 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">ard0869</identifier>
+   <identifier type="Work ID">2144577891</identifier>
    <identifier type="Vendor ID">1A3-G-O-13-F1</identifier>
+   <identifier type="acquisition">1A3-G-O-13</identifier>
    <titleInfo>
       <title>Olympia: Museum</title>
    </titleInfo>
    <abstract>Re-constructed model of the Statue of Nike of Paionios (by Paionios and dedicated by the Messenians and the Naupaktians after the victory over the Spartans in 424 BCE.  It stood on a triangular pedest</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>5th century BCE-4th century CE</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
-      </role>
-   </name>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300020072">Greek (ancient)</genre>
    <subject>
-      <geographic authority="geonames">Olympia</geographic>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/5805687">Olympia</geographic>
+      <cartographics>
+         <coordinates>47.03787, -122.9007</coordinates>
+      </cartographics>
    </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Olympia: Museum</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577891</identifier>
-      <originInfo>
-         <dateCreated>5th century BCE-4th century CE</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Sculpture: sculpture (visual work)</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
-      </physicalDescription>
-   </relatedItem>
+   <location>
+      <physicalLocation>Olympia Museum</physicalLocation>
+   </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -58,7 +48,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

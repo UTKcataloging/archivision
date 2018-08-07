@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">ard4799</identifier>
+   <identifier type="Work ID">2144577696</identifier>
    <identifier type="Vendor ID">1A2-F-P-I-2-G1</identifier>
    <titleInfo>
       <title>Invalides: Eglise du Dome</title>
@@ -12,54 +13,42 @@
    <abstract>The Crypt (King Louis-Philippe brought Napoleon's body back from St. Helen in 1861 as a gesture of reconciliation to the Republican and Bonapartist parties contesting his regime), general view of the </abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1675-1735</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1675</dateCreated>
+      <dateCreated encoding="edtf" point="end">1735</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">stone</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021147">Baroque</genre>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/2988507">Paris</geographic>
+      <cartographics>
+         <coordinates>48.85341, 2.3488</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500029668">
+      <namePart>Mansart, Jules Hardouin</namePart>
+      <displayForm>Jules Hardouin Mansart</displayForm>
+      <namePart type="date">1646-1708</namePart>
+      <description>French</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Paris</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Invalides: Eglise du Dome</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577696</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500029668">
-         <namePart>Mansart, Jules Hardouin</namePart>
-         <displayForm>Jules Hardouin Mansart</displayForm>
-         <namePart type="date">1646-1708</namePart>
-         <description>French</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1675-1735</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -71,7 +60,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

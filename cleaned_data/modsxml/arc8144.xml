@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc8144</identifier>
+   <identifier type="Work ID">2144577646</identifier>
    <identifier type="Vendor ID">1A2-F-G-FCP-E2</identifier>
    <titleInfo>
       <title>France: Creative Photoshop</title>
@@ -17,41 +18,24 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
+   <name type="personal">
       <namePart>Gilchrist, Scott</namePart>
+      <displayForm>Scott Gilchrist</displayForm>
+      <namePart type="date">1960-</namePart>
+      <description>Canadian</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>France: Creative Photoshop</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577646</identifier>
-      <name type="personal">
-         <namePart>Gilchrist, Scott</namePart>
-         <displayForm>Scott Gilchrist</displayForm>
-         <namePart type="date">1960-</namePart>
-         <description>Canadian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <physicalDescription>
-         <form>Photography: photographs</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -63,7 +47,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

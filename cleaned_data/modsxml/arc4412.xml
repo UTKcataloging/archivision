@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc4412</identifier>
+   <identifier type="Work ID">2144577692</identifier>
    <identifier type="Vendor ID">1A1-PA-IR-E6</identifier>
    <titleInfo>
       <title>Il Redentore</title>
@@ -12,54 +13,41 @@
    <abstract>View into a typical side altar</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>begun 1576</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1576</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">stone</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021140">Renaissance</genre>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/5405841">Venice</geographic>
+      <cartographics>
+         <coordinates>33.99084, -118.46008</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500021650">
+      <namePart>Palladio, Andrea</namePart>
+      <displayForm>Andrea Palladio</displayForm>
+      <namePart type="date">1508-1580</namePart>
+      <description>Italian</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Venice</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Il Redentore</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577692</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500021650">
-         <namePart>Palladio, Andrea</namePart>
-         <displayForm>Andrea Palladio</displayForm>
-         <namePart type="date">1508-1580</namePart>
-         <description>Italian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>begun 1576</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -71,7 +59,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

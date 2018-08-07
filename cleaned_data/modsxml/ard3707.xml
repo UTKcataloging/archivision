@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">ard3707</identifier>
+   <identifier type="Work ID">2144577709</identifier>
    <identifier type="Vendor ID">2A2-F-P-JLM-A4</identifier>
    <titleInfo>
       <title>Jardin du Luxembourg: Medici Fountain</title>
@@ -12,54 +13,43 @@
    <abstract>View along the north side of the pond, depicting seating</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1624; additions 1863-66</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1624</dateCreated>
+      <dateCreated encoding="edtf" point="end"/>
+      <dateOther encoding="edtf" point="start">1863</dateOther>
+      <dateOther encoding="edtf" point="end">1866</dateOther>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300386655">gardens</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021147">Baroque</genre>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/2988507">Paris</geographic>
+      <cartographics>
+         <coordinates>48.85341, 2.3488</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500118650">
+      <namePart>Brosse, Salomon de</namePart>
+      <displayForm>Salomon de Brosse</displayForm>
+      <namePart type="date">ca. 1571-1626</namePart>
+      <description>French</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/att">Attributed name</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Paris</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Jardin du Luxembourg: Medici Fountain</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577709</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500118650">
-         <namePart>Brosse, Salomon de</namePart>
-         <displayForm>Salomon de Brosse</displayForm>
-         <namePart type="date">ca. 1571-1626</namePart>
-         <description>French</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="ttp://id.loc.gov/vocabulary/relators/att">Attributed name</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1624; additions 1863-66</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Landscape Architecture: gardens</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300386655">gardens</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -71,7 +61,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

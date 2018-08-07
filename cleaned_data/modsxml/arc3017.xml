@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc3017</identifier>
+   <identifier type="Work ID">2144578338</identifier>
    <identifier type="Vendor ID">1A1-LC-VS-E1</identifier>
    <titleInfo>
       <title>Villa Savoye</title>
@@ -12,54 +13,40 @@
    <abstract>View of the lower portion of the interior ramp</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1929</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1929</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">steel, glass</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/2986501">Poissy</geographic>
+      <cartographics>
+         <coordinates>48.92902, 2.04952</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500027041">
+      <namePart>Corbusier, Le</namePart>
+      <displayForm>Le Corbusier</displayForm>
+      <namePart type="date">1887-1965</namePart>
+      <description>Swiss</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Poissy</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Villa Savoye</title>
-      </titleInfo>
-      <identifier type="Work ID">2144578338</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500027041">
-         <namePart>Corbusier, Le</namePart>
-         <displayForm>Le Corbusier</displayForm>
-         <namePart type="date">1887-1965</namePart>
-         <description>Swiss</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1929</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -71,7 +58,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

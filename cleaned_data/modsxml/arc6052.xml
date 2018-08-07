@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc6052</identifier>
+   <identifier type="Work ID">2144577445</identifier>
    <identifier type="Vendor ID">1A2-C-M-CC-A1</identifier>
    <titleInfo>
       <title>Château Champlain</title>
@@ -12,52 +13,38 @@
    <abstract>Distant aerial view</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1967</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1967</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">concrete</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/6077243">Montreal</geographic>
+      <cartographics>
+         <coordinates>45.50884, -73.58781</coordinates>
+      </cartographics>
+   </subject>
+   <name type="corporate">
+      <namePart>D'Astous &amp; Pothier</namePart>
+      <displayForm>D'Astous &amp; Pothier</displayForm>
+      <namePart type="date">1965-1968</namePart>
+      <description>Canadian</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Montreal</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Château Champlain</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577445</identifier>
-      <name type="personal">
-         <namePart>D'Astous &amp; Pothier</namePart>
-         <displayForm>D'Astous &amp; Pothier</displayForm>
-         <namePart type="date">1965-1968</namePart>
-         <description>Canadian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1967</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -69,7 +56,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

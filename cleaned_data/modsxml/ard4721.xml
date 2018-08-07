@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">ard4721</identifier>
+   <identifier type="Work ID">2144577616</identifier>
    <identifier type="Vendor ID">6A1-PAN-CB-F1</identifier>
    <titleInfo>
       <title>Florence Campanile: Pisano Reliefs</title>
@@ -12,67 +13,55 @@
    <abstract>The State or Nation (south elevation, marble reliefs, in hexagons, designed by Giotto but executed by Andrea Pisano, ground floor): Astronomy</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1337-1341</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1337</dateCreated>
+      <dateCreated encoding="edtf" point="end">1341</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
+      <form type="material">marble</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300020756">Medieval</genre>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3176959">Florence</geographic>
+      <cartographics>
+         <coordinates>43.77925, 11.24626</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500010766">
+      <namePart>Giotto di Bondone</namePart>
+      <displayForm>Giotto di Bondone</displayForm>
+      <namePart type="date">born 1266 or 1267, died 1337</namePart>
+      <description>Italian</description>
       <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
-   <subject>
-      <geographic authority="geonames">Florence</geographic>
-   </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Florence Campanile: Pisano Reliefs</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577616</identifier>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500010766">
-         <namePart>Giotto di Bondone</namePart>
-         <displayForm>Giotto di Bondone</displayForm>
-         <namePart type="date">born 1266 or 1267, died 1337</namePart>
-         <description>Italian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <name type="personal"
-            authority="ulan"
-            valueURI="http://vocab.getty.edu/ulan/500005015">
-         <namePart>Pisano, Andrea</namePart>
-         <displayForm>Andrea Pisano</displayForm>
-         <namePart type="date">ca. 1295- ca. 1349</namePart>
-         <description>Italian</description>
-         <role>
-            <roleTerm type="text"
-                      authority="marcrelator"
-                      valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1337-1341</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Sculpture: sculpture (visual work)</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
-      </physicalDescription>
-   </relatedItem>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500005015">
+      <namePart>Pisano, Andrea</namePart>
+      <displayForm>Andrea Pisano</displayForm>
+      <namePart type="date">ca. 1295- ca. 1349</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -84,7 +73,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

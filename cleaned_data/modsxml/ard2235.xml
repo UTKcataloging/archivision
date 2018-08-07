@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">ard2235</identifier>
+   <identifier type="Work ID">2144577637</identifier>
    <identifier type="Vendor ID">1A3-R-R-FR-C2</identifier>
    <titleInfo>
       <title>Forum Romanum</title>
@@ -12,41 +13,27 @@
    <abstract>Close views within the East Forum depicting general view of the House of the Vestal Virgins</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>7C BCE-4th century</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">marble, brick</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
-      </role>
-   </name>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300020666">Late Antique</genre>
    <subject>
-      <geographic authority="geonames">Rome</geographic>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3169070">Rome</geographic>
+      <cartographics>
+         <coordinates>41.89193, 12.51133</coordinates>
+      </cartographics>
    </subject>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>Forum Romanum</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577637</identifier>
-      <originInfo>
-         <dateCreated>7C BCE-4th century</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Architecture: built works</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -58,7 +45,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>

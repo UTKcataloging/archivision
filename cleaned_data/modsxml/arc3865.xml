@@ -5,6 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="filename">arc3865</identifier>
+   <identifier type="Work ID">2144577399</identifier>
    <identifier type="Vendor ID">1A1-MCR-PMM-A4</identifier>
    <titleInfo>
       <title>C.R. Mackintosh with other staff at Honeyman &amp; Keppie</title>
@@ -12,38 +13,20 @@
    <abstract>Photograph of C.R. Mackintosh with other staff at Honeyman &amp; Keppie: J.H. MacNair (centre); C.R. Mackintosh (right); Alexander McGibbon (seated centre); Charles Whitelaw (seated right)</abstract>
    <originInfo>
       <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1900</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1900</dateCreated>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <name>
-      <namePart>Gilchrist, Scott</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
-      </role>
-   </name>
-   <relatedItem type="otherVersion">
-      <titleInfo>
-         <title>C.R. Mackintosh with other staff at Honeyman &amp; Keppie</title>
-      </titleInfo>
-      <identifier type="Work ID">2144577399</identifier>
-      <originInfo>
-         <dateCreated>1900</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <form>Photography: photographs</form>
-         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
-      </physicalDescription>
-   </relatedItem>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Archivision</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>
-      <recordContentSource>Archivision, Inc.</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
@@ -55,7 +38,7 @@
       <namePart>Gilchrist, Scott</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
       </role>
    </name>
 </mods>
