@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="19.0">
     <meta>
-        <filters directoryPatterns="" filePatterns="archivision.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="Archivision.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="19.0" xml:space="preserve">
                 <serializableOrderedMap>
@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mods_collection.xml</String>
+                                    <String>modscollection.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>archivision</String>
+                                        <String>Archivision</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -33,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>archivision</String>
+                                    <String>Archivision</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -120,7 +120,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="archivision.xpr">
+    <projectTree name="Archivision.xpr">
         <folder path="."/>
     </projectTree>
 </project>
