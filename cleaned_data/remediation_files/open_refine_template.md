@@ -12,7 +12,8 @@
 
 ```
 <mods>
-<identifier type="filename">{{cells["CatalogNum"].value}}</identifier>
+<identifier type="filename">{{cells["Filename"].value}}</identifier>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
 <identifier type="Work ID">{{cells["work_id"].value}}</identifier>
 <identifier type="Vendor ID">{{cells["VendorCatalogNum"].value}}</identifier>
 {{if(isBlank(cells['RepositoryID'].value), '', '<identifier type="acquisition">' + cells['RepositoryID'].value + '</identifier>')}}
