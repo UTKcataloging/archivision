@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard0754</identifier>
+   <identifier type="pid">archivision:10145</identifier>
+   <identifier type="Work ID">2144578092</identifier>
+   <identifier type="Vendor ID">1A3-G-PR-A1</identifier>
+   <titleInfo>
+      <title>Priene</title>
+   </titleInfo>
+   <abstract>Distant view of the site of Priene from the southwest, depicting its high location above the lower plain (once the ocean) and its acropolis yet higher beyond</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>established 6th century BCE</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015566">topographical views</form>
+      <form type="material">stone, marble</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300020072">Greek (ancient)</genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/298734">Güllübahçe Turun</geographic>
+      <cartographics>
+         <coordinates>37.66166, 27.30547</coordinates>
+      </cartographics>
+   </subject>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

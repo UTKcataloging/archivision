@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard2935</identifier>
+   <identifier type="pid">archivision:12270</identifier>
+   <identifier type="Work ID">2144577791</identifier>
+   <identifier type="Vendor ID">1B1-MCR-MF-B2</identifier>
+   <titleInfo>
+      <title>Mackintosh: Miscellaneous Furniture</title>
+   </titleInfo>
+   <abstract>Furniture designed for No.120 Mains Street, Glasgow. 1900, detail of centre bed post inlaid with colored glass</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1914-1928</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1914</dateCreated>
+      <dateCreated encoding="edtf" point="end">1928</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300037680">furniture</form>
+      <form type="material">wood</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021430">Art Nouveau </genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/2648579">Glasgow</geographic>
+      <cartographics>
+         <coordinates>55.86515, -4.25763</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500022117">
+      <namePart>Mackintosh, Charles Rennie</namePart>
+      <displayForm>Charles Rennie Mackintosh</displayForm>
+      <namePart type="date">1868-1928</namePart>
+      <description>British</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

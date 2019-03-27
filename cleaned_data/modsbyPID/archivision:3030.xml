@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc3185</identifier>
+   <identifier type="pid">archivision:3030</identifier>
+   <identifier type="Work ID">2144578159</identifier>
+   <identifier type="Vendor ID">1A1-LCN-SW-3-C2</identifier>
+   <titleInfo>
+      <title>Salt-Works: Director's Residence</title>
+   </titleInfo>
+   <abstract>Interior view looking down at the entry of the director's residence from the first floor</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1775-1779</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1775</dateCreated>
+      <dateCreated encoding="edtf" point="end">1779</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">stone</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021477">Neoclassical</genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3037224">Arc-et-Senans</geographic>
+      <cartographics>
+         <coordinates>47.03127, 5.77027</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal">
+      <namePart>Ledoux, Claude-Nicolas</namePart>
+      <displayForm>Claude-Nicolas Ledoux</displayForm>
+      <namePart type="date">1736-1806</namePart>
+      <description>French</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

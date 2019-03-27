@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard5154</identifier>
+   <identifier type="pid">archivision:14265</identifier>
+   <identifier type="Work ID">2144577324</identifier>
+   <identifier type="Vendor ID">1A4-AE-H-H26</identifier>
+   <titleInfo>
+      <title>Architectural Elements H: Domes</title>
+   </titleInfo>
+   <abstract>The dome and half domes of the Blue Mosque, Istanbul, Turkey</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300000885">architectural elements</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500032022">
+      <namePart>Bernini, Gian Lorenzo</namePart>
+      <displayForm>Gian Lorenzo Bernini</displayForm>
+      <namePart type="date">1598-1680</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500018169">
+      <namePart>Brunelleschi, Filippo</namePart>
+      <displayForm>Filippo Brunelleschi</displayForm>
+      <namePart type="date">1377-1446</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500021650">
+      <namePart>Palladio, Andrea</namePart>
+      <displayForm>Andrea Palladio</displayForm>
+      <namePart type="date">1508-1580</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500020307">
+      <namePart>Wright, Frank Lloyd</namePart>
+      <displayForm>Frank Lloyd Wright</displayForm>
+      <namePart type="date">1867-1959</namePart>
+      <description>American</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500028306">
+      <namePart>Borromini, Francesco</namePart>
+      <displayForm>Francesco Borromini</displayForm>
+      <namePart type="date">1599-1667</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

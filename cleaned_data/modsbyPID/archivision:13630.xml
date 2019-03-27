@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard4494</identifier>
+   <identifier type="pid">archivision:13630</identifier>
+   <identifier type="Work ID">2144577284</identifier>
+   <identifier type="Vendor ID">6A1-DB-A-B2</identifier>
+   <titleInfo>
+      <title>Annunciation</title>
+   </titleInfo>
+   <abstract>Aedicule, detail showing capital with carved heads</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>ca. 1435</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1435</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047090">sculpture (visual work)</form>
+      <form type="material">pietra serena, gilded</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021140">Renaissance</genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3176959">Florence</geographic>
+      <cartographics>
+         <coordinates>43.77925, 11.24626</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500026022">
+      <namePart>Donatello</namePart>
+      <displayForm>Donatello</displayForm>
+      <namePart type="date">ca. 1386-1466</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

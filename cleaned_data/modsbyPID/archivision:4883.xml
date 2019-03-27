@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">arc5137</identifier>
+   <identifier type="pid">archivision:4883</identifier>
+   <identifier type="Work ID">2144577421</identifier>
+   <identifier type="Vendor ID">1A1-SL-CP-F1</identifier>
+   <titleInfo>
+      <title>Carson Pirie Scott and Company</title>
+   </titleInfo>
+   <abstract>Northwest ornamental cast-iron entrance, general side view, from northeast on Madison St.</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1899, 1903-1904</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1899</dateCreated>
+      <dateCreated encoding="edtf" point="end"/>
+      <dateOther encoding="edtf" point="start">1903</dateOther>
+      <dateOther encoding="edtf" point="end">1904</dateOther>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300265418">built works</form>
+      <form type="material">cast-iron, terra-cotta: glazed</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021430">Art Nouveau </genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/4887398">Chicago</geographic>
+      <cartographics>
+         <coordinates>41.85003, -87.65005</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500013453">
+      <namePart>Sullivan, Louis H.</namePart>
+      <displayForm>Louis H. Sullivan</displayForm>
+      <namePart type="date">1856-1924</namePart>
+      <description>American</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500019474">
+      <namePart>Burnham, Daniel Hudson</namePart>
+      <displayForm>Daniel Hudson Burnham</displayForm>
+      <namePart type="date">1846-1912</namePart>
+      <description>American</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="corporate"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500033200">
+      <namePart>Holabird &amp; Root</namePart>
+      <displayForm>Holabird &amp; Root</displayForm>
+      <namePart type="date">established ca. 1928</namePart>
+      <description>American</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>

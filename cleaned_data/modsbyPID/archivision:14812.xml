@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">ard5726</identifier>
+   <identifier type="pid">archivision:14812</identifier>
+   <identifier type="Work ID">2144577419</identifier>
+   <identifier type="Vendor ID">6A1-LF-CC-B5</identifier>
+   <titleInfo>
+      <title>Carafa Chapel</title>
+   </titleInfo>
+   <abstract>Close-up view of the heads of the Virgin, St. Thomas Aquinas, and Cardinal Carafa</abstract>
+   <originInfo>
+      <publisher>Archivision, Inc.</publisher>
+      <dateCreated>1488-1493</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1488</dateCreated>
+      <dateCreated encoding="edtf" point="end">1493</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings</form>
+      <form type="material">fresco</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300021140">Renaissance</genre>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006008793">
+      <topic>Male artists</topic>
+   </subject>
+   <subject>
+      <geographic authority="geonames" valueURI="http://sws.geonames.org/3169070">Rome</geographic>
+      <cartographics>
+         <coordinates>41.89193, 12.51133</coordinates>
+      </cartographics>
+   </subject>
+   <name type="personal"
+         authority="ulan"
+         valueURI="http://vocab.getty.edu/ulan/500018029">
+      <namePart>Lippi, Filippino</namePart>
+      <displayForm>Filippino Lippi</displayForm>
+      <namePart type="date">ca.1457-1504</namePart>
+      <description>Italian</description>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Archivision</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name>
+      <namePart>Gilchrist, Scott</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+</mods>
